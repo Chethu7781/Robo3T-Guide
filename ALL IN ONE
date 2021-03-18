@@ -1,0 +1,26 @@
+ 1)# Go to address https://robomongo.org/download and download the file for Linux/Mac/Windows
+
+2) extract the file in the location  of your local system using command $ tar xvzf file.tar.gz
+
+Where,
+x: This option tells tar to extract the files.
+
+v: The “v” stands for “verbose.” This option will list all of the files one by one in the archive.
+
+z: The z option is very important and tells the tar command to uncompress the file (gzip).
+
+f: This options tells tar that you are going to give it a file name to work with.
+
+A tarball is a group or archive of files that are bundled together using the tar command and have the .tar file extension.
+
+3) go to path /home/your path//robo3t/bin 
+
+4) and type command $./robo3t or sudo ./robo3t and you're in....the robo3t
+
+
+5) add NEW CONNECTION whether you want to get access to local db then type localhost and port number and in the authenication field type admin username ,password
+and test connection , if you want to get access to mongo server database then use public ip and enter port details and test once
+
+6) click on the database and collections and right click on collection name and click on view database and start querying..
+
+THANK YOU..................................
